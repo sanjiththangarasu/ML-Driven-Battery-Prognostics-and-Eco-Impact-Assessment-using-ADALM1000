@@ -1,0 +1,2 @@
+# ML-Driven-Battery-Prognostics-and-Eco-Impact-Assessment-using-ADALM1000
+ML-driven battery prognostics system for Li-Ion batteries using ADALM1000-based Electrochemical Impedance Spectroscopy (EIS) and Gradient Boosting. Predicts battery failure modes and Remaining Useful Life (RUL), while providing Battery Health Index (BHI) and eco-impact assessment for predictive maintenance and sustainable battery management.
